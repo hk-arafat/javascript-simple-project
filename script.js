@@ -1,6 +1,6 @@
 //  ////Mile to kilometer//// //
 
-let mile = 2 ;
+let mile = 5 ;
 let kilo = 1.60934 ;
 const kilometer = mile * kilo;
 console.log(kilometer)
